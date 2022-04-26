@@ -7,9 +7,9 @@ My Own Cryptocurrency Token "ADICOIN"
 
 ## Parameters
 
-> Token Name : AdiCoin \n
-> Token Symbol : ADI \n
-> Total Supply : 10000000 \n
+> Token Name : AdiCoin -
+> Token Symbol : ADI -
+> Total Supply : 10000000 -
 > Decimal : 0
 
 Tested on Ropsen Test Network
